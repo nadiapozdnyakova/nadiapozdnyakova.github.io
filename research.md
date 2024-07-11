@@ -2,7 +2,7 @@
 layout: default
 ---
 
-*[Home](https://nadiapozdnyakova.github.io/) >> Research*
+[Home](https://nadiapozdnyakova.github.io/home) | [Teaching](https://nadiapozdnyakova.github.io/teaching) | [CV](https://nadiapozdnyakova.github.io/cv) 
 
 
 ### Exchange Rate Expectations of Firms: General Equilibrium Implications (Job Market Paper)
