@@ -2,13 +2,3 @@ title: Nadia Pozdnyakova
 # logo: /assets/img/logo.png
 description: PhD student at NYU
 theme: jekyll-theme-minimal
-
-navigation:
-- name: Home
-link: /home.html
-- name: Research
-link: /research.html
-- name: Teaching
-link: /teaching.html
-- name: CV
-link: /cv.html
