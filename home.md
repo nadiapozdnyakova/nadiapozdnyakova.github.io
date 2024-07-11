@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # I am a sixth-year Economics PhD student at NYU
 
 My research interests are international and behavioral macroeconomics.
