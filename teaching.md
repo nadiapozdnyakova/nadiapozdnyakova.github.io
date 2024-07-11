@@ -2,6 +2,9 @@
 layout: default
 ---
 
+*[Home](https://nadiapozdnyakova.github.io/) >> Teaching*
+
+
 Macroeconomics III (MS in Quantitative Economics), NYU |  Teaching Assistant for Prof. Niklas Engbom | Spring 2024
 
 Microeconomics II (MS in Quantitative Economics), NYU | Teaching Assistant for Prof. Maher Said | Fall 2023
