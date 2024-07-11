@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Exchange Rate Expectations of Firms: General Equilibrium Implications (Job Market Paper)
 
 The paper explores the role of expectations in the economy's response to exchange rate fluctuations. Using the novel survey by the Central Reserve Bank of Peru, I study firm-level exchange rate forecasts. I document that the firms deviate from the rational benchmark by overreacting to the new information and overestimating the persistence of the current exchange rate. Moreover, I show the connection between exchange rate forecasts and recent and expected actions: a firm expecting a depreciation is more likely to reduce employment and production. I use these facts to develop a behavioral general equilibrium model of a small open economy. The exchange rate is driven by a financial shock distorting the UIP condition, and the firms overestimate its persistence. They set their prices infrequently and associate expected depreciation with a higher future path of marginal cost. Then, overreactive beliefs generate a more contractionary response to depreciation among price-setting firms. I intend to explore the relevance of expectations for aggregate dynamics and misallocation among firms.
