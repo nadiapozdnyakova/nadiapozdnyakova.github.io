@@ -2,6 +2,8 @@
 layout: default
 ---
 
+*[Research](https://nadiapozdnyakova.github.io/research) | [Teaching](https://nadiapozdnyakova.github.io/teaching) | [CV](https://nadiapozdnyakova.github.io/cv) *
+
 # I am a sixth-year Economics PhD student at NYU
 
 My research interests are international and behavioral macroeconomics.
