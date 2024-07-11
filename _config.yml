@@ -5,10 +5,10 @@ theme: jekyll-theme-minimal
 
 navigation:
 - name: Home
-link: ./home.html
+link: /home.html
 - name: Research
-link: ./research.html
+link: /research.html
 - name: Teaching
-link: ./teaching.html
+link: /teaching.html
 - name: CV
-link: ./cv.html
+link: /cv.html
