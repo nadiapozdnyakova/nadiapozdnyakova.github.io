@@ -4,7 +4,9 @@ layout: default
 
 [Home](https://nadiapozdnyakova.github.io/home) | [Research](https://nadiapozdnyakova.github.io/research) | [CV](https://nadiapozdnyakova.github.io/cv) 
 
-# Teaching Experience
+<p align="center">
+<b>Teaching Experience</b>
+</p>
 
 Macroeconomics III (MS in Quantitative Economics), NYU |  Teaching Assistant for Prof. Niklas Engbom    | Spring 2024
 
