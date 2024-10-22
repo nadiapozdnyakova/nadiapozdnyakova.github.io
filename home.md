@@ -2,13 +2,13 @@
 layout: default
 ---
 
-[Research](https://nadiapozdnyakova.github.io/research) | [Teaching](https://nadiapozdnyakova.github.io/teaching) | [CV](https://github.com/nadiapozdnyakova/nadiapozdnyakova.github.io/blob/main/CV.pdf)
+[Research](https://nadiapozdnyakova.github.io/research) | [Teaching](https://nadiapozdnyakova.github.io/teaching) | [CV](CV.pdf)
 
-# I am a sixth-year Economics PhD student at NYU
+<b>I am a sixth-year Economics PhD student at New York University.</b>
 
-My research interests are international and behavioral macroeconomics.
+I am interested in macroeconomics with a focus on international and behavioral macroeconomics.
 
-In my job market paper, I study exchange rate expectations of firms and their implications for general equilibrium small open economy.
+In my job market paper, I study exchange rate expectations of firms and their implications for the transmission of aggregate shocks in a small open economy.
 
 I am on 2024-2025 academic job market.
 
