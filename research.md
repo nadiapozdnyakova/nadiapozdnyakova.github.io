@@ -2,12 +2,12 @@
 layout: default
 ---
 
-[Home](https://nadiapozdnyakova.github.io/home) | [Teaching](https://nadiapozdnyakova.github.io/teaching) | [CV](https://nadiapozdnyakova.github.io/cv) 
+[Home](https://nadiapozdnyakova.github.io/home) | [Teaching](https://nadiapozdnyakova.github.io/teaching) | [CV](CV.pdf) 
 
 
-### Exchange Rate Expectations of Firms: General Equilibrium Implications (Job Market Paper)
+### Exchange Rate Expectations and Aggregate Dynamics (Job Market Paper)
 
-The paper explores the role of expectations in the economy's response to exchange rate fluctuations. Using the novel survey by the Central Reserve Bank of Peru, I study firm-level exchange rate forecasts. I document that the firms deviate from the rational benchmark by overreacting to the new information and overestimating the persistence of the current exchange rate. Moreover, I show the connection between exchange rate forecasts and recent and expected actions: a firm expecting a depreciation is more likely to reduce employment and production. I use these facts to develop a behavioral general equilibrium model of a small open economy. The exchange rate is driven by a financial shock distorting the UIP condition, and the firms overestimate its persistence. They set their prices infrequently and associate expected depreciation with a higher future path of marginal cost. Then, overreactive beliefs generate a more contractionary response to depreciation among price-setting firms. I intend to explore the relevance of expectations for aggregate dynamics and misallocation among firms.
+The paper explores the role of expectations in the economy's response to exchange rate fluctuations. Using data from the Central Reserve Bank of Peru, I analyze firm-level exchange rate forecasts and find that firms deviate from rational expectations by overreacting to new information and overestimating the persistence of the current exchange rate. I also demonstrate that firms anticipating depreciation are more likely to reduce employment and production. Based on these observations, I develop a behavioral general equilibrium model of a small open economy, in which exchange rate is driven by a financial shock to the uncovered interest parity (UIP) condition. Firms set their prices infrequently and associate expected depreciation with a higher future path of marginal costs. They overestimate the persistence of the shock and contract more than under the rational expectations benchmark, potentially reversing the sign of output response. If households and financial institutions share this bias, the impact of the shock becomes amplified, contributing to greater exchange rate volatility. 
 
 ### Financial Crisis and Permanent Output Drop: a Model of Reverse Causality (Third year paper)
 
