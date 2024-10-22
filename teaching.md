@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](https://nadiapozdnyakova.github.io/home) | [Research](https://nadiapozdnyakova.github.io/research) | [CV](https://github.com/nadiapozdnyakova/nadiapozdnyakova.github.io/blob/main/CV.pdf)
+[Home](https://nadiapozdnyakova.github.io/home) | [Research](https://nadiapozdnyakova.github.io/research) | [CV](CV.pdf)
 
 <p align="center">
 <b>Teaching Experience</b>
