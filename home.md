@@ -8,7 +8,7 @@ layout: default
 
 I am interested in macroeconomics with a focus on international and behavioral macroeconomics.
 
-In my job market paper, I study exchange rate expectations of firms and their implications for the transmission of aggregate shocks in a small open economy.
+In my [job market paper](jmp.pdf), I study exchange rate expectations of firms and their implications for the transmission of aggregate shocks in a small open economy.
 
 I am on 2024-2025 academic job market.
 
