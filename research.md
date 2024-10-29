@@ -5,7 +5,7 @@ layout: default
 [Home](https://nadiapozdnyakova.github.io/home) | [Teaching](https://nadiapozdnyakova.github.io/teaching) | [CV](CV.pdf) 
 
 
-### Exchange Rate Expectations and Aggregate Dynamics (Job Market Paper)
+### [Exchange Rate Expectations and Aggregate Dynamics](jmp.pdf) (Job Market Paper)
 
 The paper explores the role of expectations in the economy's response to exchange rate fluctuations. Using data from the Central Reserve Bank of Peru, I analyze firm-level exchange rate forecasts and find that firms deviate from rational expectations by overreacting to new information and overestimating the persistence of the current exchange rate. I also demonstrate that firms anticipating depreciation are more likely to reduce employment and production. Based on these observations, I develop a behavioral general equilibrium model of a small open economy, in which exchange rate is driven by a financial shock to the uncovered interest parity (UIP) condition. Firms set their prices infrequently and associate expected depreciation with a higher future path of marginal costs. They overestimate the persistence of the shock and contract more than under the rational expectations benchmark, potentially reversing the sign of output response. If households and financial institutions share this bias, the impact of the shock becomes amplified, contributing to greater exchange rate volatility. 
 
