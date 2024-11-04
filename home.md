@@ -6,7 +6,7 @@ layout: default
 
 # I am a sixth-year Economics PhD student at New York University.
 
-I am interested in macroeconomics with a focus on international and behavioral macroeconomics.
+I am interested in macroeconomics with a focus on international and behavioral macroeconomics and international finance.
 
 In my [job market paper](jmp.pdf), I study exchange rate expectations of firms and their implications for the transmission of aggregate shocks in a small open economy.
 
