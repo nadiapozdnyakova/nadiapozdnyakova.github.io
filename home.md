@@ -4,13 +4,11 @@ layout: default
 
 [Research](https://nadiapozdnyakova.github.io/research) | [Teaching](https://nadiapozdnyakova.github.io/teaching) | [CV](CV.pdf)
 
-# I am a sixth-year Economics PhD student at New York University.
+# I am an Assistant Professor at New Economic School.
 
-My primary field is international macroeconomics and my secondary fields are macroeconomics and international trade.
+My primary field is international macroeconomics and my secondary fields are macroeconomics, behavioral macroeconomics, and international trade.
 
-In my [job market paper](jmp.pdf), I study exchange rate expectations of firms and their implications for the transmission of aggregate shocks in a small open economy.
-
-I am on 2024-2025 academic job market.
+In my [recent paper](jmp.pdf), I study exchange rate expectations of firms and their implications for the transmission of aggregate shocks in a small open economy.
 
 <b>Contact: np2156@nyu.edu</b>
 
