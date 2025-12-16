@@ -6,9 +6,9 @@ layout: default
 
 # I am an Assistant Professor at New Economic School.
 
-My primary field is international macroeconomics and my secondary fields are macroeconomics, behavioral macroeconomics, and international trade.
+I recieved my PhD from New York University in 2025. My primary field is international macroeconomics and my secondary fields are macroeconomics, behavioral macroeconomics, and international trade.
 
 In my [recent paper](jmp.pdf), I study exchange rate expectations of firms and their implications for the transmission of aggregate shocks in a small open economy.
 
-<b>Contact: np2156@nyu.edu</b>
+<b>Contact: npozdnyakova@nes.ru</b>
 
